@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33423.255
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSPP_Lab_4_2_2023", "TSPP_Lab_4_2_2023\TSPP_Lab_4_2_2023.csproj", "{0D3E972C-F813-4D67-A01D-A3B8F6A05946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3E972C-F813-4D67-A01D-A3B8F6A05946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3E972C-F813-4D67-A01D-A3B8F6A05946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3E972C-F813-4D67-A01D-A3B8F6A05946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3E972C-F813-4D67-A01D-A3B8F6A05946}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2663D4C7-8ED4-4427-B7FB-9CC797F3E80B}
+	EndGlobalSection
+EndGlobal
